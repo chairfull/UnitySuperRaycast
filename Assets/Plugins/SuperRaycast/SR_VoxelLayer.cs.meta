@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f9495c5d7ad4a40e38be38d7a13e3808
+timeCreated: 1503611399
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91154
+  packageName: Super Raycast
+  packageVersion: 1.4
+  assetPath: Assets/Plugins/Teebar/Super Raycast/SR_VoxelLayer.cs
+  uploadId: 198245

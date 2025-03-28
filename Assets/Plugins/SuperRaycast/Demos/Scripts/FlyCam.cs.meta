@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 02fbfcfd1f156438583abb9d2d15a4de
+timeCreated: 1492713186
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91154
+  packageName: Super Raycast
+  packageVersion: 1.4
+  assetPath: Assets/Plugins/Teebar/Super Raycast/Demos/Scripts/FlyCam.cs
+  uploadId: 198245

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3e8928377107d4983b4f60032109898d
+timeCreated: 1494363221
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91154
+  packageName: Super Raycast
+  packageVersion: 1.4
+  assetPath: Assets/Plugins/Teebar/Super Raycast/Demos/BumpMap MultiRenderer Demo/LightingData.asset
+  uploadId: 198245

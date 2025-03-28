@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 02f8b56f2317b41ee9e8d181732b003a
+timeCreated: 1499642544
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91154
+  packageName: Super Raycast
+  packageVersion: 1.4
+  assetPath: Assets/Plugins/Teebar/Super Raycast/Demos/Misc/New Material 1.mat
+  uploadId: 198245

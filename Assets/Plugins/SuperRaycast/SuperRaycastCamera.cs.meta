@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8547bb2d77ee44764adb3dcd0505c6f5
+timeCreated: 1500680755
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91154
+  packageName: Super Raycast
+  packageVersion: 1.4
+  assetPath: Assets/Plugins/Teebar/Super Raycast/SuperRaycastCamera.cs
+  uploadId: 198245

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6ab8382ba334d4b90834000c067a845d
+timeCreated: 1492270557
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91154
+  packageName: Super Raycast
+  packageVersion: 1.4
+  assetPath: Assets/Plugins/Teebar/Super Raycast/SuperRaycast.shader
+  uploadId: 198245

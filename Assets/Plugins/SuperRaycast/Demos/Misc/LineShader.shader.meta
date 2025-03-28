@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d0b732621a31041f299106d1726d9837
+timeCreated: 1499639100
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91154
+  packageName: Super Raycast
+  packageVersion: 1.4
+  assetPath: Assets/Plugins/Teebar/Super Raycast/Demos/Misc/LineShader.shader
+  uploadId: 198245

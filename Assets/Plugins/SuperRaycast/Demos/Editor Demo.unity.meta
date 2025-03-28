@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90d736da970e14d27af8592e6cd30b34
+timeCreated: 1500828776
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91154
+  packageName: Super Raycast
+  packageVersion: 1.4
+  assetPath: Assets/Plugins/Teebar/Super Raycast/Demos/Editor Demo.unity
+  uploadId: 198245

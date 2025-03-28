@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 29130b3e4390d4d02b4f55f71d02f964
+timeCreated: 1492648122
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91154
+  packageName: Super Raycast
+  packageVersion: 1.4
+  assetPath: Assets/Plugins/Teebar/Super Raycast/Demos/Scripts/MultiObjectExample.cs
+  uploadId: 198245

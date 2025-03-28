@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f747f4c3f40b24af9a31988ec4fd5ebd
+timeCreated: 1492710520
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91154
+  packageName: Super Raycast
+  packageVersion: 1.4
+  assetPath: Assets/Plugins/Teebar/Super Raycast/Demos/BumpMap MultiRenderer Demo.unity
+  uploadId: 198245

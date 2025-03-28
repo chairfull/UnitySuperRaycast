@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 333a1eb2c7ff8487b8d2c5776666c125
+timeCreated: 1500323933
+licenseType: Store
+ComputeShaderImporter:
+  currentAPIMask: 131076
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91154
+  packageName: Super Raycast
+  packageVersion: 1.4
+  assetPath: Assets/Plugins/Teebar/Super Raycast/Resources/Super Raycast CS.compute
+  uploadId: 198245

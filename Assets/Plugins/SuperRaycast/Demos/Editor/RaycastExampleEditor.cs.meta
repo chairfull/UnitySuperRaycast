@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b9035b06c77814bf29d543ed8d24183a
+timeCreated: 1492641239
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 91154
+  packageName: Super Raycast
+  packageVersion: 1.4
+  assetPath: Assets/Plugins/Teebar/Super Raycast/Demos/Editor/RaycastExampleEditor.cs
+  uploadId: 198245
