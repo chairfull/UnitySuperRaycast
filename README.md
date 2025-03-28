@@ -1,5 +1,7 @@
 # Super Raycast (Free Source Code!)
 
+![](superraycast_preview.jpg)
+
 The source code for [Super Raycast](https://assetstore.unity.com/packages/tools/physics/super-raycast-91154) asset.
 
 Unity doesn't run well on my Linux, and nobody buys the asset any more, so have it for free!
